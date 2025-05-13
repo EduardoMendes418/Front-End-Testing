@@ -37,7 +37,7 @@ Este é um sistema de gerenciamento de produtos, desenvolvido com Next.js, TypeS
   - Testes de componentes
   - npm run test:coverage
   - npm run test
-  - 
+    
 ## Configuração do Ambiente
 
 ### Pré-requisitos
