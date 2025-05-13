@@ -35,20 +35,17 @@ Este é um sistema de gerenciamento de produtos, desenvolvido com Next.js, TypeS
 
 - **Testes**
   - Testes de componentes
-
-  npm run test:coverage
-  npm run test
-
+  - npm run test:coverage
+  - npm run test
+  - 
 ## Configuração do Ambiente
 
 ### Pré-requisitos
-- Node.js 16+
-- npm ou yarn
-- npm install
-- npm run dev
-
+  - Node.js 16+
+  - npm ou yarn
+  - npm install
+  - npm run dev
 
 ### Instalação
-1. Clone o repositório
-```bash
-cd product-manager
+  1. Clone o repositório
+  ```bash
