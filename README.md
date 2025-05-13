@@ -1,4 +1,4 @@
-# Gerenciamento de Produtos
+# Gerenciamento de Produtos Magalu
 ![magalu](https://github.com/user-attachments/assets/a4a219a3-9618-4563-81f1-f68b7be9d4ce)
 
 
@@ -35,8 +35,9 @@ Este é um sistema de gerenciamento de produtos, desenvolvido com Next.js, TypeS
 
 - **Testes**
   - Testes de componentes
-![coverage](https://github.com/user-attachments/assets/0910eed9-ac23-4ae6-ab2e-cbd42f147d35)
 
+  npm run test:coverage
+  npm run test
 
 ## Configuração do Ambiente
 
@@ -45,6 +46,7 @@ Este é um sistema de gerenciamento de produtos, desenvolvido com Next.js, TypeS
 - npm ou yarn
 - npm install
 - npm run dev
+
 
 ### Instalação
 1. Clone o repositório
