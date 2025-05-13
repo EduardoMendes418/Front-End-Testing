@@ -1,5 +1,6 @@
 # Gerenciamento de Produtos
-![alt text](magalu-painel.png)
+![magalu](https://github.com/user-attachments/assets/a4a219a3-9618-4563-81f1-f68b7be9d4ce)
+
 
 ## Visão Geral
 Este é um sistema de gerenciamento de produtos, desenvolvido com Next.js, TypeScript e Tailwind CSS, seguindo princípios de Test-Driven Development (TDD).
@@ -34,6 +35,8 @@ Este é um sistema de gerenciamento de produtos, desenvolvido com Next.js, TypeS
 
 - **Testes**
   - Testes de componentes
+![coverage](https://github.com/user-attachments/assets/0910eed9-ac23-4ae6-ab2e-cbd42f147d35)
+
 
 ## Configuração do Ambiente
 
