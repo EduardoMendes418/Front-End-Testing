@@ -46,6 +46,3 @@ Este é um sistema de gerenciamento de produtos, desenvolvido com Next.js, TypeS
   - npm install
   - npm run dev
 
-### Instalação
-  1. Clone o repositório
-  ```bash
